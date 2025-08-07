@@ -14,7 +14,7 @@ This project analyzes hotel booking data from AtliQ Hotels to uncover trends in 
 ---
 
 ## 🛠️ Tech Stack
---*Python:* Data analysis and processing
+--**Python:** Data analysis and processing
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Environment:** Jupyter Notebook
 
