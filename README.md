@@ -36,6 +36,12 @@ This project analyzes hotel booking data from AtliQ Hotels to uncover trends in 
 
 ---
 
+## 📸 Report Previews
+
+Occupancy_Pct_by_City |![Home](https://github.com/Codeblack09/Python_AtliQ_Hotels_Analysis/blob/main/images/occupancy_%25_by_city.png) |
+Occupancy_Pct_by_Day |![Finance](https://github.com/Codeblack09/Python_AtliQ_Hotels_Analysis/blob/main/images/occupancy_%25_by_days.png) |
+Revenue_by_Platform |![Sales](https://github.com/Codeblack09/Python_AtliQ_Hotels_Analysis/blob/main/images/revenue_by_platform.png) |
+
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
