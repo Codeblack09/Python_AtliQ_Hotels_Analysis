@@ -36,6 +36,11 @@ This project analyzes hotel booking data from AtliQ Hotels to uncover trends in 
 
 ---
 
+## 📊 Link to Live Presentation
+- https://www.canva.com/design/DAGvAzEt_k8/Cs2vQqC9HzR1cmqQ-E--PA/view?utm_content=DAGvAzEt_k8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb7b321210a
+
+---
+
 ## 📸 Report Previews
 
 
